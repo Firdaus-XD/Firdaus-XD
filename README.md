@@ -1,10 +1,29 @@
-- 👋 Hi, I’m @Firdaus-XD
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+        Script Crackers Facebook
 
-<!---
-Firdaus-XD/Firdaus-XD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+1.pkg update && pkg upgrade
+
+2.apt update && apt upgrade
+
+3.pkg install git
+
+4.pkg install python2
+
+5.pkg install python
+
+6.pip2 install mechanize && pip2 install requests
+
+7.git clone https://github.com/maskprivate1457/META-MBF.git
+
+8.cd META-MBF
+
+9.pip install requests && pip install mechanize
+
+10.pip install pycryptodome && pip install Crypto && pip install Crypto
+
+11.pip install stdiomask && pip install rich && pip install colorama && pip install bs4
+
+12.python MULTI.py
+
+
+
